@@ -30,5 +30,4 @@
    nu_hash
  end 
   
- end 
   
